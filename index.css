@@ -1,0 +1,37 @@
+h1{
+    background-color: rgb(132, 148, 76);
+}
+   
+p{
+    color: brown;
+}
+
+#heading{
+    text-align: center;
+    color: rgb(241, 241, 248);
+}
+
+*{
+
+    <style="background-image:url(giraffe.jpg)">
+}
+.span{
+    color: rgb(190, 169, 169);
+}
+h1,h2{
+    text-align:center;
+    color:"lightyellow";
+}
+div>p
+   {
+    color:chocolate;
+    text-align:center;
+
+   }
+   div p{
+    color:aqua;
+    font-size: 50px;
+   }
+   div~p{
+    color: blue;
+}
